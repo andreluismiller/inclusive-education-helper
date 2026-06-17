@@ -453,6 +453,7 @@ dependencies = [
     { name = "openai" },
     { name = "pandas" },
     { name = "python-dotenv" },
+    { name = "pyyaml" },
     { name = "requests" },
 ]
 
@@ -465,6 +466,7 @@ requires-dist = [
     { name = "openai", specifier = ">=2.42.0" },
     { name = "pandas", specifier = ">=3.0.3" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
     { name = "requests", specifier = ">=2.34.2" },
 ]
 
