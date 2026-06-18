@@ -1,0 +1,12 @@
+document_type: decreto
+
+hierarchy:
+  - type: capitulo
+    pattern: '^CAP[ÍI]TULO\s+[IVXLCDM]+'
+
+  - type: secao
+    pattern: '^SE[CÇ][ÃA]O\s+[IVXLCDM]+'
+
+chunk_level: article
+
+article_pattern: '^Art\.\s*(\d+)[ºo]?'

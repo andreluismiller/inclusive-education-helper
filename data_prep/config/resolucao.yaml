@@ -1,0 +1,7 @@
+document_type: resolucao
+
+hierarchy: []
+
+chunk_level: article
+
+article_pattern: '^Art\.\s*(\d+)[ºo]?'

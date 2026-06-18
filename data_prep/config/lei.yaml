@@ -1,0 +1,15 @@
+document_type: lei
+
+hierarchy:
+  - type: livro
+    pattern: '^LIVRO\s+[IVXLCDM]+'
+
+  - type: titulo
+    pattern: '^T[ÍI]TULO\s+[IVXLCDM]+'
+
+  - type: capitulo
+    pattern: '^CAP[ÍI]TULO\s+[IVXLCDM]+'
+
+chunk_level: article
+
+article_pattern: '^Art\.\s*(\d+)[ºo]?'
