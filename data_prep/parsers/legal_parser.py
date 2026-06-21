@@ -137,6 +137,65 @@ class GenericLegalParser:
             if line.strip()
         ]
 
+#################################################
+# NORMALIZAÇÃO JURÍDICA
+#################################################
+
+    def normalize_legal_text(
+        self,
+        text: str
+    ):
+
+        if not text:
+            return ""
+
+        text = text.replace(
+            "\xa0",
+            " "
+        )
+
+        #################################################
+        # Junta quebras artificiais
+        #################################################
+
+        text = re.sub(
+            r"\n+",
+            " ",
+            text
+        )
+
+        text = re.sub(
+            r"\s+",
+            " ",
+            text
+        )
+
+        #################################################
+        # Preserva estruturas jurídicas
+        #################################################
+
+        text = re.sub(
+            r"\s+(§\s*\d+[ºo]?)",
+            r"\n\1",
+            text
+        )
+
+        text = re.sub(
+            r"\s+([IVXLCDM]+\s*-)",
+            r"\n\1",
+            text
+        )
+
+        text = re.sub(
+            r"\s+([a-z]\))",
+            r"\n\1",
+            text,
+            flags=re.IGNORECASE
+        )
+
+        return text.strip()
+
+
     #################################################
     # EXTRAÇÃO DOS ARTIGOS
     #################################################
@@ -178,7 +237,24 @@ class GenericLegalParser:
         current_article = None
         current_text = []
 
+        document_started = False
+
         for line in self.lines:
+
+            #################################################
+            # IGNORA O PREÂMBULO
+            #################################################
+
+            if not document_started:
+
+                if re.match(
+                    r"^Art\.\s*1[ºo]?",
+                    line,
+                    re.IGNORECASE
+                ):
+                    document_started = True
+                else:
+                    continue            
 
             #################################################
             # HIERARQUIA
@@ -216,9 +292,17 @@ class GenericLegalParser:
 
                     current_article[
                         "text_original"
-                    ] = "\n".join(
-                        current_text
-                    ).strip()
+                    ] = self.normalize_legal_text(
+                        "\n".join(
+                            current_text
+                        )
+                    )                    
+
+                    # current_article[
+                    #     "text_original"
+                    # ] = "\n".join(
+                    #     current_text
+                    # ).strip()
 
                     articles.append(
                         current_article
@@ -275,9 +359,17 @@ class GenericLegalParser:
 
             current_article[
                 "text_original"
-            ] = "\n".join(
-                current_text
-            ).strip()
+            ] = self.normalize_legal_text(
+                "\n".join(
+                    current_text
+                )
+            )            
+
+            # current_article[
+            #     "text_original"
+            # ] = "\n".join(
+            #     current_text
+            # ).strip()
 
             articles.append(
                 current_article
@@ -367,9 +459,16 @@ class GenericLegalParser:
                     ],
 
                 "text_expanded":
-                    "\n".join(
-                        expanded
+                    "\n\n".join(
+                        item.strip()
+                        for item in expanded
+                        if item
                     ),
+
+                # "text_expanded":
+                #     "\n".join(
+                #         expanded
+                #     ),
 
                 "themes":
                     [],
