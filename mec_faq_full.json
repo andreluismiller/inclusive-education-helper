@@ -1,0 +1,614 @@
+[
+  {
+    "programa": "Programa de Acompanhamento e Formação Continuada para o Ensino Multisseriado (Praema)",
+    "agrupamento": "geral",
+    "pergunta": "O que são turmas multisseriadas?",
+    "resposta": "Turmas multisseriadas são compostas por estudantes de diferentes idades/séries/anos/ciclos nas mesmas turmas e salas de aulas."
+  },
+  {
+    "programa": "Programa de Acompanhamento e Formação Continuada para o Ensino Multisseriado (Praema)",
+    "agrupamento": "geral",
+    "pergunta": "Quais os são objetivos do Praema?",
+    "resposta": "São objetivos do programa:\n• apoiar os sistemas de ensino na formação continuada voltada ao público-alvo do programa, aprimorando a gestão administrativa, financeira e pedagógica, além da dimensão pessoal e relacional das escolas públicas da educação básica e das secretarias de educação, com vistas à aprendizagem das crianças em processo de alfabetização em turmas multisseriadas;• estimular a institucionalização das trocas de experiências e o compartilhamento de boas práticas entre os professores alfabetizadores e gestores participantes;• apoiar as escolas de formação de profissionais da educação das secretarias de educação, ou órgãos equivalentes, a desenvolver estudos, aprimorar os processos de formação continuada e replicar boas práticas; e\n• estimular as instituições públicas de ensino superior a apoiar, por meio da prática da extensão universitária, as escolas públicas de educação básica no processo de alfabetização em turmas multisseriadas."
+  },
+  {
+    "programa": "Programa de Acompanhamento e Formação Continuada para o Ensino Multisseriado (Praema)",
+    "agrupamento": "geral",
+    "pergunta": "Quem pode participar do Praema?",
+    "resposta": "mantenham atualizados com as novas metodologias e estratégias de ensino, adaptando-as para a realidade de turmas multisseriadas."
+  },
+  {
+    "programa": "Programa de Acompanhamento e Formação Continuada para o Ensino Multisseriado (Praema)",
+    "agrupamento": "geral",
+    "pergunta": "Quantas vagas serão disponibilizadas no Praema?",
+    "resposta": "oralidade, da leitura e da escrita, nos anos de 2024, 2025 e 2026."
+  },
+  {
+    "programa": "Programa de Acompanhamento e Formação Continuada para o Ensino Multisseriado (Praema)",
+    "agrupamento": "geral",
+    "pergunta": "Como a Secretaria de Educação Básica (SEB) prestará apoio?",
+    "resposta": "profissionais da educação das secretarias estaduais e municipais de educação ou equivalentes, além de cursos autoinstrucionais disponibilizados no Avamec."
+  },
+  {
+    "programa": "Programa de Acompanhamento e Formação Continuada para o Ensino Multisseriado (Praema)",
+    "agrupamento": "geral",
+    "pergunta": "Quem será o responsável pela execução e avaliação do Programa?",
+    "resposta": "Coordenação Geral de Gestores e Técnicos da Diretoria de Formação e Valorização dos Profissionais da Educação, será a responsável pela execuçãoe pela avaliação do programa, o que permitirá subsidiar o aprimoramento de outras iniciativas e políticas públicas na área."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "O que é o Programa Escola e Comunidade?",
+    "resposta": "O Programa Escola e Comunidade (Proec) é uma iniciativa da Secretaria de Educação Básica (SEB), que tem como finalidade, no âmbito das escolas públicas de educação básica, fomentar a parceria entre a escola, a família e a comunidade, na perspectiva da educação integral, por meio da participação de estudantes, profissionais da educação, familiares e membros da comunidade em projetos de formação que envolvam a promoção da cidadania, da cultura de paz e democrática e a melhoria da qualidade da educação pública brasileira."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Quais os objetivos do Programa Escola e Comunidade?",
+    "resposta": "I - fomentar a parceria entre escola, família e comunidade por meio de projetos de formação que promovam a cidadania, a cultura de paz e democrática e a melhoria da qualidade da educação pública brasileira;\nII - fortalecer a articulação da escola com a família e a comunidade;III - estimular projetos de formação que promovam o desenvolvimento pleno de estudantes, famílias e comunidades;IV - promover ações que valorizem e potencializem a participação da família e da comunidade nos processos educativos dos estudantes e na construção do seu projeto de vida;V - fomentar ações de fortalecimento da gestão democrática, qualificando a atuação dos conselheiros escolares e garantindo a participação efetiva das comunidades escolar e local;VI - promover ações que ampliem o acesso às informações educacionais e financeiras das escolas públicas, fortalecendo o controle social;VII - incentivar o intercâmbio de experiências educacionais entre as instituições de ensino com foco no desenvolvimento integral dos estudantes;VIII - contribuir para a consecução das metas do Plano Nacional de Educação - PNE; eIX - contribuir para a consecução das premissas da Base Nacional Comum Curricular (BNCC), no que se refere prioritariamente à formação integral dos estudantes."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "O que é o PDDE Escola e Comunidade?",
+    "resposta": "O Programa Dinheiro Direto na Escola (PDDE) Escola e Comunidade é a ação que possibilitará o repasse de recursos ﬁnanceiros a escolas selecionadas pelo Programa Escola e Comunidade (Proec) para viabilizar a execução do Projeto de Formação da escola."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "No âmbito do PDDE Escola e Comunidade, o que é uma escola participante?",
+    "resposta": "Entende-se por escola participante do Programa Dinheiro Direto na Escola (PDDE) Escola e Comunidade a unidade selecionada com base em critérios técnicos estabelecidos pela Secretaria de Educação Básica do Ministério da Educação (SEB/MEC), em conformidade com a Resolução nº 16, de 15 de agosto de 2024, publicada pelo Fundo Nacional de Desenvolvimento da Educação (FNDE). Para que a escola receba o recurso financeiro, a secretaria de educação estadual ou municipal a que pertence deve aderir ao Programa, selecionando-a, e o diretor da escola deve elaborar e enviar o Projeto de Formação ao MEC via PDDE Interativo."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "No âmbito do PDDE Escola e Comunidade, o que é Projeto de Formação da escola?",
+    "resposta": "É o instrumento que organiza as atividades da escola, no qual são estabelecidos os prazos,as metas e os respectivos custos das atividades que devem ser realizadas (oficinas, cursos, palestras etc.). O Projeto de Formação deve ser elaborado pelo diretor escolar em parceria com os conselheiros escolares, no sistema PDDE Interativo (www.pddeinterativo.mec.gov.br)."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "É possível alterar o Projeto de Formação da escola no momento da sua execução?",
+    "resposta": "O Projeto de Formação da Escola é o instrumento de planejamento das ações, contendo a previsão de atividades, período de realização, beneficiados e valores. Esse planejamento deve ser seguido sempre que possível. No entanto, ajustes poderão ser feitos caso a realização das ações planejadas não seja mais compatível com a nova realidade da escola. Nessa situação, é essencial que as alterações propostas, assim como suas justificativas, sejam registradas em ata de reunião do Conselho Escolar. No momento em que as escolas forem registrar os dados para o monitoramento no PDDE Interativo, é importante inserir os dados reais da execução."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Quem pode ministrar as atividades previstas no Projeto de Formação, como oficina, palestra, rodas de conversa?",
+    "resposta": "O convidado/responsável pela atividade deve ser qualificado para o tema, ou seja, possuir formação específica e/ou ter o conhecimento empírico (experiências/vivências) relativo à temática envolvida."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Há necessidade de fazer cotação para o pagamento de palestrantes ou compra de materiais nas ações?",
+    "resposta": "Sim. O artigo 23 da Resolução FNDE nº 15, de 16 de setembro de 2021, determina que é obrigatória a indicação dos 3 (três) melhores orçamentos obtidos para cada item ou lote pesquisado e cotado, com vistas à identificação do fornecedor ou prestador do qual poderá ser feita a aquisição dos materiais e bens ou a contratação dos serviços.\nExcepcionalmente, de acordo com o parágrafo 6º do mesmo artigo, será admitida a determinação de preço estimado com base em menos de três orçamentos, desde que devidamente justificada pelo gestor responsável e aprovado pela autoridade competente da UEx."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "É permitida a contratação de pessoa física para o desenvolvimento das atividades previstas no Projeto de Formação da Escola?",
+    "resposta": "De acordo com orientação do FNDE, no caso de serviços realizados por pessoas físicas, pode ser aceito, como documento probatório da despesa, um recibo, desde que nele constem, no mínimo, as especificações dos serviços, o nome, CPF, RG, endereço, telefone e a assinatura do prestador. Além disso, é preciso se atentar para as demais regras de prestação de contas do FNDE."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "É permitida a contratação de profissional da escola para o desenvolvimento das atividades previstas no Projeto de Formação da Escola?",
+    "resposta": "Não. De acordo com a Resolução FNDE nº 15, de 16 de setembro de 2021, “é vedada a aplicação dos recursos do PDDE e Ações Integradas em:\n- implementação de outras ações que estejam sendo objeto de financiamento por outros programas executados pelo FNDE, exceto aquelas executadas sob a égide das normas do PDDE e Ações Integradas; (Exemplo: Livros didáticos já distribuídos pelo PNLD);\n- gastos com pessoal; (Ex: contador; secretária);\n- pagamento, a qualquer título, a:"
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Para que serve o Projeto de Formação?",
+    "resposta": "O Projeto de Formação, para o Proec, é o instrumento que permite à gestão escolar planejar as ações que serão realizadas, distribuir recursos, definir os agentes que desejam envolver e refletir sobre os desafios da escola. Para a SEB/MEC, ele viabiliza o repasse dos recursos do PDDE Escola e Comunidade e permite compreender as ações propostas e realizadas, com vistas ao monitoramento e avaliação."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Qual é a categoria de despesa dos recursos financeiros repassados pelo Escola e Comunidade?",
+    "resposta": "Os recursos financeiros repassados pelo PDDE Escola e Comunidade são de custeio e poderão ser utilizados na contratação de serviços e compra de material de consumo.\nSaiba mais em: https://www.fnde.gov.br/index.php/programas/pdde/perguntas-frequentes/item/10728-pf-sobre-despesas-de-custeio-e-capital"
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Como consultar a situação da prestação de contas da UEx representativa da escola?",
+    "resposta": "Qualquer pessoa poderá verificar a situação de prestações de contas das entidades beneficiárias dos recursos do PDDE e de suas ações agregadas. Há duas possibilidades para esta finalidade, uma delas é o aplicativo de celular Clique Escola, por meio da aba dados financeiros, ou se preferir pelo Sistema Gestão de Prestação de Contas(SiGPC) basta acessar o endereço endereço: https://www.fnde.gov.br/sigpcadm/sistema.pu?operation=localizar.”"
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Como realizar a prestação de contas dos recursos financeiros recebidos pela UEx representativa da escola no âmbito do PDDE Escola e Comunidade?",
+    "resposta": "De acordo com o FNDE, o prazo para UEx (escola) prestar contas para a EEx (Secretaria de Educação) é o último dia útil de janeiro do ano subsequente ao do recebimento dos recursos. A entidade deverá encaminhar para prefeitura municipal ou secretaria de estado de educação (conforme a vinculação da escola) toda a documentação comprobatória das despesas realizadas, acompanhada dos formulários."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "A escola que não executou os recursos finaceiros no ano de seu recebimento poderá alterar as datas e os tipos de ação previstos em seu Projeto de Formação no ano subsequente?",
+    "resposta": "O Projeto de Formação da Escola é o instrumento de planejamento das ações no qual há a previsão das ações com beneficiados e valores. Assim, deve ser seguido sempre que possível. Entretanto, alterações serão possíveis sempre que sua realização não mais seja adequada à nova realidade da escola. Nesse caso, é fundamental que as alterações propostas e suas justificativas sejam formalizadas em ata de reunião do Conselho Escolar e apresentadas à UEx."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "O recurso do PDDE Escola e Comunidade já está disponível em alguma conta bancária?",
+    "resposta": "Os recursos financeiros do PDDE Escola e Comunidade serão depositados em conta bancária aberta pelo FNDE, em nome de cada UEx representativa das escolas participantes, na mesma agência bancária depositária dos recursos do Programa Dinheiro Direto na Escola – PDDE. Os repasses financeiros integrarão a ação denominada PDDE Qualidade, e a destinação PDDE Escola e Comunidade, para fins de operacionalização e monitoramento dos repasses pelo FNDE."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "O que são Projetos de Formação?",
+    "resposta": "Em um conceito mais amplo, que transcende o preenchimento do sistema PDDE Interativo, o Projeto de Formação é um conjunto de ações permanentes e contínuas de aperfeiçoamento dos saberes. Ele visa fortalecer a parceria entre a escola, a família e a comunidade, com foco na educação integral, promovendo a participação de estudantes, profissionais da educação, familiares e membros da comunidade em projetos de formação que incentivam a cidadania, a cultura de paz e democrática, além de contribuir para a melhoria da qualidade da educação pública brasileira.\nEsses projetos de formação podem ser desenvolvidos no contexto da escola ou podem ser oferecidos pela Secretaria de Educação Básica (SEB/MEC) por meio de cursos em ambiente virtual de aprendizagem. As ações de formação poderão ocorrer de forma presencial, híbrida ou a distância, incluindo oficinas, cursos, palestras e webconferências, além de outras atividades correlatas, destinadas a comunidade, familiares, profissionais da educação e estudantes."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Haverá alguma formação para os articuladores no âmbito do Programa Escola e Comunidade?",
+    "resposta": "Sim. As formações para os articuladores do Programa Escola e Comunidade serão desenvolvidas ao longo do ano, com previsão de webconferências, reuniões virtuais, palestras, etc."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "No âmbito do Programa Escola e Comunidade, qual o papel do Conselho Escolar?",
+    "resposta": "Segundo as atualizações ocorridas naLei nº 9.394, de 20 de dezembro de 1996 (LDB), o Conselho Escolar, é um órgão deliberativo, composto do Diretor da Escola, membro nato, e de representantes das comunidades escolar e local, eleitos por seus pares nas seguintes categorias:I – professores, orientadores educacionais, supervisores e administradores escolares;II – demais servidores públicos que exerçam atividades administrativas na escola;III – estudantes;IV – pais ou responsáveis; eV – membros da comunidade local. Portanto, é um órgão colegiado da estrutura da escola que legitima a participação dos representantes das comunidades escolar e local, potencializando assim os resultados e o controle social das ações. Os conselheiros escolares participarão na elaboração e implementação do Projeto de Formação da escola, como também no monitoramento das atividades constantes no Projeto de Formação da escola."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "O que é o Clique Escola e como utilizá-lo no âmbito do Programa Escola e Comunidade?",
+    "resposta": "O aplicativo Clique Escola tem como objetivo incentivar o acesso da comunidade escolar e da sociedade aos principais dados educacionais, de infraestrutura, financeiros e projetos desenvolvidos na escola.\nSeu propósito é promover a compreensão e transparência dos dados educacionais, além de criar uma comunidade escolar voltada para o compartilhamento de conhecimentos e colaboração para o futuro da educação."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Como participar do Programa Escola e Comunidade?",
+    "resposta": "A participação no Programa Escola e Comunidade ocorre por meio de adesão, realizada pela secretaria de educação dos municípios e estados no módulo Plano de Metas (PAR 4) do Sistema Integrado de Monitoramento, Execução e Controle (SIMEC). Nessa mesma etapa, a secretaria deverá indicar o articulador e selecionar, entre as escolas elegíveis, aquelas que participarão do programa em seu município ou estado.\nApós a adesão das secretarias de educação, os diretores das escolas selecionadas deverão elaborar o Projeto de Formação no sistema PDDE Interativo, viabilizando, assim, a captação de recursos e a execução das atividades previstas."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Quais as responsabilidades das escolas no Programa Escola e Comunidade?",
+    "resposta": "I - elaborar e implementar o projeto de formação da escola;\nII - garantir a participação do Conselho Escolar na elaboração, implementação, no acompanhamento e na avaliação do projeto de formação da escola;\nIII - articular o projeto de formação da escola com as ações relacionadas à educação integral, alfabetização, conectividade e com o projeto político-pedagógico;\nIV - divulgar os projetos de formação no aplicativo Clique Escola;\nV - disponibilizar informações sobre a implementação do projeto de formação da escola à respectiva secretaria de educação à SEB e ao FNDE;\nVI - realizar a prestação de contas dos recursos financeiros do Proec; e\nVII - enviar as informações sobre a execução das ações do Proec às secretarias de educação e/ou à SEB/MEC, sempre que solicitadas."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Qual o procedimento das secretarias de educação para formalizar participação no Programa?",
+    "resposta": "As secretarias de educação deverão formalizar a adesão ao Programa Escola e Comunidade mediante assinatura eletrônica do Termo de Compromisso, a ser disponibilizado pela SEB/MEC no módulo PAR 4 do Sistema Integrado de Monitoramento, Execução e Controle – SIMEC."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Como saber se a escola está apta para participar do Programa Escola e Comunidade?",
+    "resposta": "O MEC divulgará anualmente a lista de escolas elegíveis a participar do PDDE Escola e Comunidade no site oficial do Programa. Destaca-se que a adesão ao Programa por parte do ente federativo é condição necessária para que as escolas públicas de educação básica de sua rede de ensino tornem-se habilitadas a elaborar o Projeto de Formação e, consequentemente, a receber recursos financeiros."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "O que são escolas elegíveis?",
+    "resposta": "As escolas elegíveis são aquelas que atendem aos critérios técnicos estabelecidos na Portaria MEC nº 264, de 1º de abril de 2024, que institui o Programa Escola e Comunidade, bem como a Resolução vigente à época da adesão."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Como se dará o processo de seleção das escolas referente à participação no Programa Escola e Comunidade?",
+    "resposta": "As secretarias de educação deverão selecionar, dentre as elegíveis, as escolas que participarão do Programa Escola e Comunidade a partir de uma lista de escolas selecionadas por meio de critérios técnicos estabelecidos pela SEB, disponíveis no site do Programa."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Qual o perfil de acesso do Articulador no SIMEC e no PDDE Interativo?",
+    "resposta": "No SIMEC, o articulador não possui perfil de acesso, já que todas as ações na plataforma são realizadas pelo Secretário Estadual ou Municipal de Educação.Já no PDDE Interativo, a secretaria de educação pode possibilitar o acesso do Articulador como Coordenador (somente 1 por rede), membro do comitê( 2 a 10 por rede), ou equipe de apoio, esse último não tem limite por rede, porém não gerencia nenhum perfil, apenas realiza consultas."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Qual o procedimento para formalizar a participação das escolas selecionadas?",
+    "resposta": "As escolas selecionadas pelas secretarias de educação deverão formalizar a participação no Programa Escola e Comunidade por meio do preenchimento e envio do Projeto de Formação, a ser disponibilizado no Sistema PDDE Interativo. Você pode encontrar as orientações para a elaboração do Projeto de Formação de sua escola no site do Proec."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Os recursos destinados ao PDDE Escola e Comunidade, podem ser utilizados em custeio e capital?",
+    "resposta": "Não. Os recursos do PDDE Escola e Comunidade são destinados exclusivamente à categoria de Custeio.\nClique aqui para acessar o Guia de Execução dos recursos do PDDE Escola e Comunidade."
+  },
+  {
+    "programa": "Programa Escola e Comunidade",
+    "agrupamento": "geral",
+    "pergunta": "Pode ser adquirido lanche com o recurso do Proec?",
+    "resposta": "O parágrafo segundo, do Art. 4º, da Resolução FNDE nº 15/2021, estabelece que é vedada a aplicação dos recursos do PDDE e Ações Integradas na “implementação de outras ações que estejam sendo objeto de financiamento por outros programas executados pelo FNDE, exceto aquelas executadas sob a égide das normas do PDDE e Ações Integradas”. Esse mesmo parágrafo prevê que é vedada a aplicação de recursos financeiros do PDDE e Ações Integradas para gastos pessoais, pagamento de agente público, despesas de caráter assistencialista, entre outras.\nQuanto ao Programa Escola e Comunidade, no que tange a aplicação dos recursos para “lanche”, encontra-se o amparo no inciso V, do artigo 4º, da resolução supracitada, em que é estabelecida a destinação dos recursos “na implementação de projeto pedagógico”.\nNesse caso, desde que o lanche seja estritamente necessário para a implementação da ação proposta no Projeto de Formação da escola, é possível justificar o investimento. Cabe ressaltar que não se pode utilizar recursos financeiros para festividades ou alimentação escolar, porém, caso haja necessidade de realizar uma atividade, dentro da proposta do Programa Escola e Comunidade, que exija a presença de pessoas (famílias e membros da comunidade na escola ou em alguma visita guiada) durante um longo período, um lanche (alimentação e/ou hidratação) pode ser necessário e justificável.\nAssim, há que se ter claro a finalidade de cada ação, para evitar equívocos na utilização dos recursos financeiros.Clique aqui para acessar o Guia de Execução dos recursos do PDDE Escola e Comunidade.”"
+  },
+  {
+    "programa": "Programa Brasil Alfabetizado",
+    "agrupamento": "geral",
+    "pergunta": "Quando tem início a adesão ao Programa Brasil Alfabetizado?",
+    "resposta": "O Sistema do Brasil Alfabetizado (SBA) estará aberto para adesão dos entes federados por 30 dias a contar da data da publicação da Resolução 20, de 9 de setembro de 2024."
+  },
+  {
+    "programa": "Programa Brasil Alfabetizado",
+    "agrupamento": "geral",
+    "pergunta": "Qual o período da adesão?",
+    "resposta": "O Sistema do Brasil Alfabetizado (SBA) estará aberto para adesão dos entes federados por 30 dias a contar da data da publicação da Resolução 20, de 9 de setembro de 2024"
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Gestão Democrática",
+    "pergunta": "Quem são as crianças que têm direito à educação infantil?",
+    "resposta": "A educação infantil é um direito humano e social de todas as crianças até seis anos de idade, sem distinção, independentemente de origem geográfica, cor da pele, etnia, nacionalidade, sexo, deficiência física ou mental, nível socioeconômico ou classe social. Esse direito também não está atrelado à situação trabalhista dos pais, nem ao nível de instrução, religião, opinião política ou orientação sexual dos responsáveis."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Gestão Democrática",
+    "pergunta": "Qual é a regulamentação que orienta a educação infantil?",
+    "resposta": "A regulamentação é o conjunto de leis e normas deliberadas em âmbito nacional pelo Congresso Nacional e pelo Conselho Nacional de Educação (CNE) e a nível estadual, municipal e distrital, pelo legislativo do respectivo sistema e pelo órgão normativo. Em geral estes atos orientam a criação, a autorização, o funcionamento, a supervisão e a avaliação das instituições educacionais.\nOs sistemas de ensino têm autonomia para complementar a legislação nacional por meio de normas próprias, específicas e adequadas às características locais. De modo geral, as normas abordam critérios e exigências que autorizam e ofertam o funcionamento das instituições educacionais, tais como: formação dos professores; espaços físicos, incluindo parâmetros para assegurar higiene, segurança, conforto; número de crianças por turma e por professor; proposta pedagógica; gestão dos estabelecimentos; documentação exigida.\nO atendimento na educação infantil deve, portanto, observar leis e normas municipais, estaduais e federais, como o Estatuto da Criança e do Adolescente (ECA), as Diretrizes Curriculares Nacionais para Educação Infantil (MEC/CNE 2009), a Resolução CEB/CNE nº 1, de 17 de outubro de 2024, a Lei Orgânica Municipal, as exigências referentes à Construção Civil e ao Código Sanitário."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Gestão Democrática",
+    "pergunta": "Quais critérios devem ser utilizados para a seleção das crianças a serem matriculadas nas creches e pré-escolas?",
+    "resposta": "Os critérios não podem restringir, impedir ou dificultar o direito da criança à educação e devem ser entendidos como referência de prioridade e não de exclusividade. Eles devem ser transparentes, amplamente discutidos e divulgados na comunidade, inclusivos e regulamentados pelo Conselho Estadual ou Municipal de Educação.Mas, frente ao desafio da grande demanda existente, os municípios podem ter prioridades que em geral combinam vários fatores como: índice de vulnerabilidade social; faixa etária da criança; local de moradia; sorteio; atendimento a irmãos, mãe trabalhadora e outros."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "A partir de qual idade é obrigatória a matrícula, pela família da criança, na educação infantil?",
+    "resposta": "A criança que tiver completado 4 anos até 31 de março do ano vigente deve ser matriculada na pré-escola, etapa obrigatória da educação básica."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "Qual a situação das crianças que fazem 6 anos após 31 de março?",
+    "resposta": "Todas as crianças que completam 6 anos depois de 31 de março do ano da matrícula devem permanecer na educação infantil, conforme consta na Resolução CNE/CEB nº 5/2009."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "Como devem ser organizadas as turmas de educação infantil?",
+    "resposta": "A composição das turmas deve considerar, de modo indissociável às especificidades das crianças, da faixa etária, da proposta pedagógica, as condições do espaço físico e as particularidades do contexto socioeconômico e cultural e das dinâmicas territoriais.\nAs crianças nunca ficam sozinhas, tendo sempre uma professora ou um professor de educação infantil para cada grupo ou turma, prevendo-se sua substituição por uma outra professora ou outro professor de educação infantil nos intervalos para café e almoço, para as faltas ou períodos de licença."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "Qual deve ser o número de crianças por professor e por turma na educação infantil?",
+    "resposta": "O número de crianças por professor deve possibilitar atenção, responsabilidade e interação com as crianças e suas famílias. A Resolução CEB/CNE nº 01/2024 estabelece:\nI - para bebês de 0 a 12 meses: 5 bebês por educador(a);\nII - para bebês de 12 a 24 meses: 8 bebês por educador(a);\nIII - para bebês de 25 a 36 meses: 12 bebês por educador(a);\nIV - para crianças de 37 a 48 meses: 18 crianças por educador(a); e\nV - para crianças de 4 e 5 anos: 20 crianças por educador(a)"
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "Qual é a carga horária mínima anual para a educação infantil?",
+    "resposta": "A LDB estabelece carga horária mínima de 800 horas, distribuída por um mínimo de 200 dias de trabalho educacional."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "Quem define o horário de funcionamento dos estabelecimentos de educação infantil?",
+    "resposta": "No caso da rede privada, é a própria instituição. Na rede pública, são as secretarias de educação."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "A educação infantil pode funcionar sem interrupções ao longo do ano?",
+    "resposta": "Não. As creches e pré-escolas constituem estabelecimentos educacionais, públicos ou privados, que dispõem de profissionais com formação específica legalmente determinada para educar e cuidar de crianças de 0 a 5 anos de idade.\nNão é adequado que a educação infantil seja oferecida sem qualquer interrupção. Sua jornada deve ser exclusivamente diurna e é necessária a existência de um período de férias coletivas, mesmo que essas sejam de duração inferior ao período de férias do ensino fundamental e médio.\nO intervalo permite às crianças, conforme mandamento constitucional, art.227 e art.229, a convivência familiar e comunitária, além de ser o momento de avaliação e replanejamento curricular pelos professores."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "A educação infantil pode funcionar no chamado período de férias escolares?",
+    "resposta": "Sim, desde que exista demanda por parte das famílias para as atividades no período das férias; esteja previsto no planejamento e calendário escolar da secretaria municipal de educação; seja elaborada uma proposta pedagógica específica para esse período; não seja obrigatório para todas as crianças e não ocupe todo o período das férias escolares."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "A educação infantil pode ser ofertada no período noturno?",
+    "resposta": "Não. As Diretrizes Curriculares Nacionais da Educação Infantil definiram o atendimento das unidades de educação infantil em período diurno. Outras formas de atendimento a crianças não se caracterizam como atendimento da educação infantil, primeira etapa da educação básica, com financiamento constitucionalmente garantido por meio do Fundeb.\nAs crianças de 0 a 6 anos têm direito à educação infantil em estabelecimentos educacionais organizados para educar e cuidar, partindo do princípio de que esses aspectos são indissociáveis e utilizando critérios pedagógicos, calendário, horários entre outras condições necessárias para o seu funcionamento."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "A educação infantil pode funcionar em espaço compartilhado com o ensino fundamental?",
+    "resposta": "Sim. Muitos municípios utilizam o espaço físico de escolas de ensino fundamental para ampliar turmas de educação infantil – pré-escola. É importante ressaltar que essa alternativa exige que a proposta pedagógica contemple as especificidades da faixa etária e que o espaço físico esteja adequado para o desenvolvimento do trabalho na etapa.\nÉ indispensável fazer uma avaliação das características do espaço e das condições dos ambientes físicos, levando-se em conta as especificidades tanto das crianças da educação infantil quanto as do ensino fundamental. Nessa avaliação, é imprescindível observar a legislação local e verificar as condições de acessibilidade das instalações para as pessoas com deficiência."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "Quais são as exigências para a autorização de funcionamento de um estabelecimento de educação infantil?",
+    "resposta": "Precisam ser observados alguns pontos: abrir processo solicitando autorização de funcionamento ao Conselho Estadual ou Municipal; atender às exigências de qualidade normatizadas em diferentes instâncias; receber visita da equipe da secretaria de educação para verificação das condições de funcionamento; ter publicado o ato da autorização de funcionamento em portaria."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Organização da Educação Infantil",
+    "pergunta": "As crianças com deficiência devem ser matriculadas na educação infantil?",
+    "resposta": "Sim. Os bebês e crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação devem estar matriculados, prioritariamente, na educação infantil, e receber o atendimento educacional especializado na perspectiva da educação inclusiva."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Proposta Pedagógica",
+    "pergunta": "Quem deve participar da construção, implementação e avaliação das propostas pedagógicas dos estabelecimentos educacionais?",
+    "resposta": "Todos os envolvidos e responsáveis: professores, gestores, merendeiros, coordenadores pedagógicos, família, diretores, líderes comunitários, entre outros. As crianças também devem ser ouvidas nos seus interesses e necessidades, porque elaborar, implementar e avaliar o trabalho educativo é tarefa de toda a instituição. Todos precisam se sentir responsáveis pelos objetivos e resultados."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Proposta Pedagógica",
+    "pergunta": "A família deve participar da gestão pedagógica e administrativa dos estabelecimentos que ofertam educação infantil?",
+    "resposta": "Sim. É muito importante a participação ativa das famílias no cotidiano das instituições. Essa relação deve ser de parceria, de trocas, de co-responsabilidade no cuidar das crianças, para que haja complementaridade nas ações entre eles e, dessa forma, a criança seja beneficiada.\nDeve-se envolver as famílias na organização das instituições, nas decisões relativas à organização das propostas e do trabalho cotidiano, bem como trazê-las para vivenciar o cotidiano da instituição. Para isso é preciso oferecer momentos de socialização e reflexão sobre o que é cuidar e educar, sobre as etapas do desenvolvimento humano, a proposta pedagógica institucional, a inclusão e a diversidade."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Proposta Pedagógica",
+    "pergunta": "Como as experiências na educação infantil podem contribuir para combater o racismo?",
+    "resposta": "O combate ao racismo e as formas de atuar contra a manutenção do preconceito racial nas experiências da educação infantil requer uma proposta pedagógica que esteja coerente com o artigo 8º das DCNEI que indica a necessidade de o currículo prever “O reconhecimento, a valorização, o respeito e a interação das crianças com as histórias e as culturas africanas, afro-brasileiras, bem como o combate ao racismo e à discriminação”.\nNesse sentido, o espaço precisa trazer referências imagéticas que valorizem a estética negra, seja pelas pessoas representadas, seja pelos artefatos culturais presentes no ambiente. Os famosos cantinhos devem ter, por exemplo, pentes e cremes adequados aos cabelos crespos, as imagens devem representar pessoas negras em diferentes profissões, especialmente nas mais valorizadas socialmente. É imprescindível que artefatos culturais como tecidos, instrumentos musicais, livros e bonecos expressem a diversidade étnico-racial da sociedade brasileira, com foco na valorização das culturas afro-brasileiras.\nOutro aspecto importante é garantir que tanto as interações entre crianças e entre crianças e adultos não sejam permeadas de preconceitos raciais. No que diz respeito à relação adulto/criança, é indispensável manter a atenção nas formas sutis que o racismo se manifesta. Ficar atenta nos modos como se chama as crianças negras, evitando apelidos depreciativos, especialmente fazendo referência a algum elemento do fenótipo (cor de pele e cabelo principalmente) na escolha das crianças para realizar determinadas atividades. É importante evitar que crianças, em geral brancas, sejam as preferidas para realizarem atividades lúdicas e interessantes, enquanto crianças negras são chamadas a fazerem tarefas menos atrativas. Atender imediatamente uma criança branca e deixar crianças negras sem respostas. Destinar afeto a crianças brancas enquanto as negras nunca recebem carinho. Todas estas práticas foram identificadas em pesquisas inclusive com bebês e crianças pequenas, por isso, é muito importante que o adulto esteja constantemente revendo sua conduta para avançar nas experiências antirracista.\nPara romper com estas atitudes, as experiências organizadas na educação infantil precisam considerar os Valores Civilizatórios Afro-Brasileiros: circularidade, religiosidade, corporeidade, musicalidade, cooperativismo/comunitarismo, territorialidade/território, ancestralidade, memória, ludicidade, energia vital (axé), oralidade (Azoilda Loretto Trindade) que fazem conexão direta com as linguagens da infância e podem ser articulados aos conhecimentos e aprendizagens de diferentes linguagens, assim como o direito à proteção, à saúde, à liberdade, à confiança, ao respeito, à dignidade, à brincadeira, à convivência e à interação com outras crianças tal como previsto nas DCNEI.\ntexto elaborado pela Profª Drª Lucimar Rosa Dias"
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Qual a formação mínima exigida para o(a) professor(a) atuar na educação infantil?",
+    "resposta": "A docência na educação infantil deve ser exercida por professores habilitados em cursos de licenciatura em Pedagogia, ofertados em nível superior, admitida a formação mínima em curso Normal de nível médio, na forma da legislação vigente."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Pode-se contratar professor(a) para atuar na educação infantil sem a formação em nível médio, na modalidade Normal, mas que esteja cursando graduação em Pedagogia?",
+    "resposta": "Não, pois o(a) professor(a), nesse caso, independentemente do que esteja cursando, não possui a formação mínima, conforme art.62 da Lei nº 9.394/96."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Professores que têm habilitação em Pedagogia, mas não cursaram o ensino médio, modalidade Normal, podem participar de um concurso que exija o ensino médio, modalidade Normal?",
+    "resposta": "Não. Embora possuam uma habilitação acima da exigida, os termos do edital são soberanos e, portanto, nesse caso, eles devem apresentar a formação em nível médio, modalidade Normal."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Os estagiários podem atuar como professores na educação infantil?",
+    "resposta": "Não. O estágio faz parte da formação acadêmica do estudante e, portanto, pressupõe que o trabalho seja supervisionado por profissional habilitado. O estagiário está em processo de formação e sua atuação não substitui o trabalho do professor."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Como a secretaria de educação deve proceder em relação aos funcionários que prestaram concurso para o cargo de monitor, auxiliar ou outros e estão atuando como professores na educação infantil?",
+    "resposta": "Esses profissionais caracterizam-se como funcionários do quadro geral da educação ou da prefeitura e a exigência mínima de formação para estes cargos varia de município para município. Eles podem estar lotados em escolas, mas não podem atuar na docência como professores da educação infantil."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "A pessoa que prestou concurso público para os cargos de monitor, auxiliar ou outros e possui a formação em Pedagogia pode ser enquadrada na carreira do Magistério?",
+    "resposta": "Não. O ingresso na carreira de Magistério Público ocorre, exclusivamente, por meio de concurso público de provas e títulos para o cargo de professor(a) (LDB, art. 67, inciso I).\nA LDB regulamentou a educação infantil como a primeira etapa da educação básica, determinando a integração das creches e pré-escolas aos respectivos sistemas de ensino, atribuindo caráter educativo a essas instituições .\nSegundo o entendimento do Supremo Tribunal Federal (STF), “É inconstitucional toda modalidade de provimento que propicie ao servidor, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido\" (Súmula 685)."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "De quem é a responsabilidade pela formação continuada dos professores?",
+    "resposta": "A responsabilidade é do poder público municipal no que concerne aos estabelecimentos que ofertam de educação infantil públicos, e das respectivas entidades ou instituições mantenedoras, no caso dos estabelecimentos privados."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Qual a formação exigida para a equipe técnica (administração, planejamento, inspeção, supervisão e orientação educacional) dos estabelecimentos de educação infantil?",
+    "resposta": "A formação deve ser em cursos de graduação em Pedagogia ou em nível de pós-graduação, conforme legislação vigente (LDB, art. 64)."
+  },
+  {
+    "programa": "Política Nacional de Educação Infantil (PNEI)",
+    "agrupamento": "Identidade e Formação Profissional",
+    "pergunta": "Qual é o quadro de recursos humanos adequado a um estabelecimento que oferta educação infantil?",
+    "resposta": "O quadro de recursos humanos deve ser coerente com a estrutura e o funcionamento de cada instituição, considerar as necessidades para a implementação do trabalho pedagógico e estar definido na proposta pedagógica. Basicamente, é composto por coordenação administrativa, coordenação pedagógica, corpo docente e funcionários.\nAlguns municípios têm realizado, com sucesso, articulações intersetoriais entre diferentes secretarias, entidades e órgãos no sentido de assegurar os direitos fundamentais das crianças, além de um atendimento integral, que compreende saúde, esporte, cultura, alimentação, proteção, entre outros."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Bolsas da Pneerq",
+    "pergunta": "Como acontece a indicação de bolsistas articuladores da Pneerq?",
+    "resposta": "Conforme a Portaria MEC nº 470, de 14 de maio de 2024, são designados bolsistas para a Pneerq a fim de fortalecer a atuação nas redes públicas de ensino. Esses profissionais desempenham papéis essenciais e são indicados pelas secretarias estaduais e municipais de educação em comum acordo, em cada unidade da Federação (UF).\nOs bolsistas da Pneerq podem assumir as seguintes posições: coordenador, articulador de formação, agente de governança regional (atua em cada uma das regionais de ensino de todas as UFs) e agente de governança local (trabalha em cada uma das redes selecionadas pela Secadi/MEC para a ação focalizada)."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Bolsas da Pneerq",
+    "pergunta": "Professores temporários podem ser bolsistas da Pneerq?",
+    "resposta": "Segundo as diretrizes estabelecidas no parágrafo único do artigo 2º, inciso VIII, os bolsistas designados para a Pneerq devem ser profissionais efetivos, tanto da rede estadual quanto de uma rede municipal. Essa exigência está em conformidade com a Lei nº 11.273, de 6 de fevereiro de 2006, a qual visa garantir que os representantes tenham um vínculo sólido com as instituições educacionais."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Bolsas da Pneerq",
+    "pergunta": "Qual é o valor do pagamento das bolsas?",
+    "resposta": "O Fundo Nacional de Desenvolvimento da Educação (FNDE) estabelece um valor de R$ 1.200 para a bolsa da Pneerq destinada aos profissionais que atuarem nas funções de coordenadores, articuladores de formação, agentes de governança regional e agentes de governança local. Essa determinação está em conformidade com o art. 17 da Portaria MEC nº 470, de 14 de maio de 2024."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Bolsas da Pneerq",
+    "pergunta": "Já recebo uma bolsa de outro programa, posso acumulá-la?",
+    "resposta": "O art. 9º estabelece que é vedada a acumulação da bolsa da Pneerq com qualquer outra bolsa de programas de formação que sejam regidos pela Lei nº 11.273, de 6 de fevereiro de 2006, cujos pagamentos sejam realizados pelo Fundo Nacional de Desenvolvimento da Educação (FNDE) ou pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).\nÉ importante destacar que, embora essa acumulação seja proibida pela referida lei, outras legislações podem permitir a acumulação de bolsas. Portanto, é fundamental que os interessados verifiquem as disposições legais aplicáveis antes de se inscreverem em múltiplos programas de bolsa, garantindo, assim, a conformidade com as normativas vigentes."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Ações de apoio da Pneerq",
+    "pergunta": "O que é a ação focalizada?",
+    "resposta": "A ação focalizada é uma ajuda a mais para as redes alavancarem as ações de Educação para as Relações Étnico-Raciais (ERER) e Educação Escolar Quilombola (EEQ), que busca ajudar escolas que mais precisam de apoio para reduzir desigualdades e promover um ambiente mais justo e igualitário."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Ações de apoio da Pneerq",
+    "pergunta": "Quais são os critérios utilizados para selecionar as secretarias de educação que receberão o apoio adicional do PDDE para Educação Étnico-Racial e do PDDE Quilombola?",
+    "resposta": "Os critérios incluem índices de desigualdade persistente e entes com alta taxa de viabilidade de mudança, priorizando redes com maiores percentuais de estudantes pretos e pardos. Foram selecionadas 773 redes municipais e sete estaduais para a ação focalizada da Pneerq. As secretarias de educação selecionadas receberão apoios adicionais:\n1. PDDE para Educação Étnico-Racial e PDDE Quilombola: todas as escolas das secretarias selecionadas receberão entre R$ 1.850 e R$ 3.700 por instituição de ensino (variando pelo número de alunos negros matriculados); e\n2. Agente de governança local: será um bolsista extra, adicionado aos demais da política universal."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Ações de apoio da Pneerq",
+    "pergunta": "Qual é a função dos agentes de governança local e regional?",
+    "resposta": "Esses agentes ajudam a monitorar e apoiar as redes e escolas na criação de planos de ação da Pneerq, ERER e EEQ, além de identificar os desafios na implementação da política. Para que eles estejam mais próximos das redes e suas escolas, seu trabalho tem sido realizado de forma colaborativa e descentralizada, com foco em garantir a implementação efetiva das ações da política na ponta.\nOs Agentes de Governança Regionais apoiam as secretarias estaduais e municipais na articulação das diretrizes da Pneerq e no acompanhamento das metas estabelecidas. Já os Agentes de Governança Locais atuam em conjunto com as redes de ensino selecionadas para a ação focalizada, identificando desafios específicos e propondo soluções alinhadas às necessidades locais.\nPrincipais atividades desenvolvidas pelos agentes:\n● Construção e efetivação dos planos de ação de Governança da Pneerq;\n● Implementação e monitoramento das diretrizes, objetivos e eixos da Pneerq nas escolas e redes selecionadas;\n● Articulação com gestores(as) escolares, educadores(as) e comunidades, promovendo o diálogo e o fortalecimento das práticas de educação para as relações étnico-raciais e educação escolar quilombola;\n● Mobilização e difusão das políticas educacionais do governo federal;\n● Participação em encontros de formação, capacitação, reuniões e eventos da Pneerq; e\n● Atualização e alinhamento das ações desenvolvidas junto à SECADI/DIPERQ."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Ações de apoio da Pneerq",
+    "pergunta": "Quais são os estados e municípios selecionados para ação focalizada da Pneerq?",
+    "resposta": "Ação focalizada da Pneerq - Estados selecionados\nAção focalizada da Pneerq - Municípios selecionados"
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Diagnóstico e monitoramento",
+    "pergunta": "O que são os painéis de diagnóstico e monitoramento?",
+    "resposta": "Plataforma que reúne dados sobre desigualdades na educação básica, com foco na equidade racial e na Educação Escolar Quilombola.\n📌 Seções principais:\n✅ Objetivos da Pneerq – Explica a política e suas metas. ✅ Apresentação do Painel – Introdução sobre os dados e sua importância. ✅ Temas disponíveis:\n- Características das escolas – Número de matrículas, infraestrutura e perfil racial.\n- Matrículas e escolas quilombolas – Dados específicos dessas comunidades.\n- Proficiência dos alunos – Desempenho em matemática e língua portuguesa.\n- Comparativos – Diferenças entre escolas em diversos aspectos.\n- Vulnerabilidade e participação – Fatores sociais e expectativas dos estudantes."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Diagnóstico e monitoramento",
+    "pergunta": "Como usar os painéis de diagnóstico e monitoramento?",
+    "resposta": "- Acesse a página inicial dos Painéis de diagnóstico e monitoramento e escolha um tema.\n- Explore os gráficos e indicadores interativos.\n- Compare dados por raça/cor, infraestrutura e desempenho escolar."
+  },
+  {
+    "programa": "Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola (Pneerq)",
+    "agrupamento": "Contato",
+    "pergunta": "pneerq@mec.gov.br",
+    "resposta": "ㅤ"
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "O que é o Pacto",
+    "pergunta": "Quais os objetivos do Pacto?",
+    "resposta": "- Oferecer apoio técnico e financeiro aos entes federativos.\n- Desenvolver referenciais para reorganização curricular.\n- Implementar materiais e formação continuada para professores e gestores.\n- Monitorar e avaliar os resultados das estratégias implementadas."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "O que é o Pacto",
+    "pergunta": "Quais os princípios do Pacto?",
+    "resposta": "- Promoção da equidade considerando desigualdades sociais.\n- Formação integral dos estudantes.\n- Respeito à autonomia dos entes federativos\n- Colaboração voluntária para implementação da política."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "O que é o Pacto",
+    "pergunta": "Quais as responsabilidades dos entes federativos que aderirem ao Pacto?",
+    "resposta": "- Estruturar e implementar processos de gestão educacional.\n- Disponibilizar materiais de apoio aos professores e estudantes.\n- Ofertar formação continuada para educadores.\n- Compartilhar informações com o MEC para monitoramento."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "O que é o Pacto",
+    "pergunta": "Quais os eixos estruturantes do Pacto?",
+    "resposta": "- Avaliação: implementação de ciclos formativos e diagnósticos contínuos das defasagens, garantindo intervenções pedagógicas assertivas.\n- Mediações Pedagógicas: estratégias para favorecer a progressão do aprendizado, promovendo equidade no ensino.\n- Formação: capacitação contínua de professores e gestores, baseada em dados das avaliações, para aprimorar práticas pedagógicas.\n- Materiais Pedagógicos: desenvolvimento e distribuição de recursos didáticos acessíveis para apoiar o ensino e a aprendizagem."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "A adesão ao Pacto é obrigatória para os estados e municípios?",
+    "resposta": "Não. A adesão ao Pacto Nacional pela Recomposição das Aprendizagens é voluntária, conforme estabelece o Decreto nº 12.391/2025. No entanto, trata-se de uma condição necessária para que estados, municípios e o Distrito Federal possam ter acesso ao apoio técnico e financeiro da União para a implementação das ações previstas na política.\nComo um estado, município ou o Distrito Federal pode formalizar sua adesão ao Pacto? A adesão deve ser realizada por meio do Sistema Integrado de Monitoramento, Execução e Controle (Simec), na aba Adesão do módulo COGEB – Recomposição das Aprendizagens. O procedimento é inteiramente digital, e a confirmação ocorre diretamente no sistema, com registro automático das informações fornecidas pelo ente federativo."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "Quem deve assinar o termo de adesão para que o ente federativo participe do Pacto?",
+    "resposta": "O Secretário ou a Secretária de Educação do ente federativo é o responsável por formalizar a adesão, utilizando o Simec. É necessário que esteja devidamente habilitado(a) no sistema com perfil autorizado para acesso à funcionalidade de adesão."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "Existe um prazo para adesão ao Pacto?",
+    "resposta": "Sim. Para o ciclo vigente, o prazo para adesão ao Pacto Nacional pela Recomposição das Aprendizagens será de 18 de agosto a 19 de setembro de 2025, conforme estabelecido pelo Ministério da Educação. Nesse período, o processo estará disponível no Sistema Integrado de Monitoramento, Execução e Controle (Simec), na Aba Adesão do módulo COGEB – Recomposição das Aprendizagens."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "A adesão ao Pacto pode ser feita de forma individual por um município ou precisa ser realizada em conjunto com o estado?",
+    "resposta": "A adesão ao Pacto é individual, podendo ser realizada por cada município de forma autônoma, independentemente da adesão do respectivo estado. Ainda assim, recomenda-se que estados e municípios mantenham diálogo e articulação, de modo a potencializar a implementação das ações de recomposição das aprendizagens nos territórios, promovendo maior coerência e efetividade das estratégias adotadas."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "Quais os compromissos assumidos pelo ente federativo ao aderir ao Pacto?",
+    "resposta": "Ao aderir ao Pacto Nacional pela Recomposição das Aprendizagens, o ente federativo assume os seguintes compromissos:\n- Formalizar a adesão no Sistema Integrado de Monitoramento, Execução e Controle (Simec);\n- Identificar e monitorar a defasagem de aprendizagens, por meio de avaliações diagnósticas;\n- Estruturar e implementar práticas pedagógicas e de gestão educacional voltadas à superação das defasagens;\n- Oferecer formação continuada a professores, gestores escolares e equipes técnicas;\n- Capacitar gestores para ampliar a resposta educacional em situações de emergência ou calamidade pública;\n- Disponibilizar materiais suplementares, alinhados às diretrizes do Pacto, para apoiar o trabalho de professores e gestores;\n- Acompanhar e monitorar os resultados da política no território, garantindo a transparência e o compartilhamento de informações com o Ministério da Educação."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "O que um ente federativo precisa fazer antes de aderir ao Pacto?",
+    "resposta": "Antes de aderir ao Pacto Nacional pela Recomposição das Aprendizagens, o Estado, o Município ou o Distrito Federal deve:\n- Conhecer o conteúdo do Decreto nº 12.391/2025, que institui o Pacto, bem como os documentos orientadores da política, como a Matriz Curricular Priorizada, os guias de implementação e os instrumentos de avaliação e planejamento pedagógico;\n- Analisar internamente as condições da rede de ensino, identificando demandas prioritárias relacionadas à defasagem de aprendizagens e à organização curricular;\n- Mobilizar a equipe técnica e pedagógica da secretaria de educação para compreender os compromissos, eixos estruturantes e estratégias previstas na política;\n- Definir o responsável técnico pela formalização da adesão no Simec, assegurando que o perfil esteja habilitado para acessar a Aba Adesão do módulo COGEB;\n- Planejar, de forma preliminar, as ações a serem desenvolvidas após a adesão, considerando o diagnóstico local e os instrumentos disponibilizados pelo Ministério da Educação."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "A adesão ao Pacto é necessária para acessar a assistência técnica e financeira da União?",
+    "resposta": "Sim. De acordo com o Decreto nº 12.391/2025, a adesão formal ao Pacto é um pré-requisito obrigatório para que estados, municípios e o Distrito Federal possam acessar o apoio técnico e financeiro oferecido pela União.\nSomente os entes federativos que aderirem poderão contar com:\n- Formação continuada para professores, gestores e equipes técnicas;\n- Materiais didáticos suplementares;\n- Recursos financeiros para melhoria ou recomposição da infraestrutura escolar;\n- Suporte técnico para a utilização da Plataforma de Avaliação e Acompanhamento das Aprendizagens."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "Quais são as implicações da adesão para estados e municípios que já possuem políticas próprias de recomposição das aprendizagens?",
+    "resposta": "A adesão ao Pacto não substitui nem invalida políticas e programas de recomposição das aprendizagens já existentes nas redes de ensino. Pelo contrário, o Decreto estabelece que as ações do Pacto devem complementar e fortalecer as iniciativas locais, respeitando a autonomia dos entes federativos. Dessa forma, estados e municípios que já possuem políticas próprias poderão:\n- Integrar suas estratégias ao Pacto, potencializando os resultados;\n- Aproveitar os recursos técnicos e financeiros disponibilizados pela União;\n- Alinhar suas ações aos eixos estruturantes da política nacional, promovendo maior coerência entre avaliação, currículo, mediação pedagógica, materiais didáticos, formação e gestão educacional."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Adesão",
+    "pergunta": "Os entes federativos que aderirem são obrigados a utilizar a Plataforma de avaliação oferecida pelo Ministério da Educação?",
+    "resposta": "Não. A de avaliação, Plataforma de Avaliação e Acompanhamento das Aprendizagens é uma ferramenta disponibilizada pelo Ministério da Educação para apoiar o diagnóstico das defasagens e o monitoramento dos resultados educacionais no âmbito da Recomposição das Aprendizagens.\nNo entanto, os entes federativos podem optar por utilizar outras soluções próprias ou contratadas, desde que estejam alinhadas às diretrizes técnicas da política e possibilitem a coleta, análise e uso pedagógico de dados de aprendizagem.\nO mais importante é que sejam realizadas avaliações diagnósticas e formativas regulares, baseadas em evidências, com o objetivo de subsidiar as estratégias de recomposição das aprendizagens, garantir o acompanhamento da progressão dos estudantes e orientar a tomada de decisão nas redes de ensino."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Implementação",
+    "pergunta": "Como podem ser estabelecidas parcerias com entidades para implementação do Pacto?",
+    "resposta": "Estados e municípios podem firmar parcerias com organizações sociais, instituições de ensino e entidades sem fins lucrativos para ampliar recursos e apoio técnico, conforme a Lei nº 13.019/2014."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Incentivos e Apoio financeiro",
+    "pergunta": "Como os entes federativos podem acessar apoio financeiro do Pacto?",
+    "resposta": "A União prestará assistência financeira mediante critérios estabelecidos, priorizando redes de ensino com maior vulnerabilidade quanto à defasagem de aprendizagem, mas também serão levadas em conta características socioeconômicas, étnico-raciais e de gênero."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Incentivos e Apoio financeiro",
+    "pergunta": "O Pacto prevê incentivos para professores que atuam na recomposição das aprendizagens?",
+    "resposta": "O MEC apoia a valorização dos educadores por meio de formações, disponibilização de materiais pedagógicos e apoio técnico. No entanto, a definição de incentivos financeiros para os professores não está prevista na política — o que não impede, respeitada a autonomia de cada ente federativo, que eles implementem políticas próprias."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Monitoramento",
+    "pergunta": "Há exigências de monitoramento, elaboração de plano de ação e envio de relatórios por parte dos entes que aderirem ao Pacto?",
+    "resposta": "Sim. Os entes federativos que aderirem ao Pacto assumem o compromisso de monitorar continuamente os níveis de defasagem de aprendizagens e os resultados alcançados, com base nas avaliações diagnósticas e nos dados gerados pela Plataforma de Avaliação ou por outra solução equivalente.\nPara orientar esse processo, cada rede deverá elaborar, com apoio do Ministério da Educação, um Plano de Ação para Recomposição das Aprendizagens, alinhado aos eixos estruturantes do Pacto. Esse plano deve conter metas, estratégias, cronograma de execução e mecanismos de acompanhamento e avaliação dos resultados. Além disso, os entes pactuantes deverão compartilhar periodicamente informações e relatórios com o Ministério da Educação, assegurando a transparência da implementação, o acompanhamento técnico e a avaliação dos impactos da política nos territórios."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Monitoramento",
+    "pergunta": "Como será monitorada a implementação das ações nos estados e municípios que aderirem ao Pacto?",
+    "resposta": "A implementação das ações será monitorada de forma contínua pelo Ministério da Educação, em articulação com as Secretarias Estaduais, Municipais e Distrital de Educação.\nEsse acompanhamento será realizado por meio de instrumentos integrados, como a Plataforma de Avaliação e Acompanhamento das Aprendizagens, os relatórios periódicos, os dados inseridos no Sistema Integrado de Monitoramento, Execução e Controle (Simec) e outros mecanismos definidos em normas complementares. O objetivo é garantir a transparência na execução, o alinhamento das estratégias aos eixos estruturantes do Pacto e a avaliação dos impactos da política nos territórios, assegurando a efetividade das ações voltadas à recomposição das aprendizagens."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Monitoramento",
+    "pergunta": "Como será o monitoramento dos avanços da recomposição das aprendizagens?",
+    "resposta": "O monitoramento será feito com base em:\nAvaliações diagnósticas periódicas, por meio do uso da Plataforma de Avaliação e Acompanhamento das Aprendizagens; ferramentas de acompanhamento e relatórios de monitoramento das redes de ensino."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Resultados",
+    "pergunta": "Como serão divulgados os resultados da recomposição das aprendizagens?",
+    "resposta": "Os resultados serão publicados em relatórios periódicos pelo MEC, contendo informações sobre a implementação do Pacto nos estados, no Distrito Federal e nos municípios."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Formação",
+    "pergunta": "Quem pode participar das formações oferecidas pelo Pacto?",
+    "resposta": "As formações são destinadas a professores da educação básica, gestores escolares, equipes técnicas das secretarias de educação e demais profissionais envolvidos na recomposição das aprendizagens."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Aprendizagem e currículo",
+    "pergunta": "Como será feita a reorganização curricular nas escolas que aderirem ao Pacto?",
+    "resposta": "O MEC disponibilizará referenciais que auxiliam na reorganização curricular e a priorização habilidades essenciais, articulando e respeitando a Base Nacional Comum Curricular (BNCC) e a autonomia dos estados e municípios."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Aprendizagem e currículo",
+    "pergunta": "Como as redes podem utilizar os dados da Plataforma de Avaliação e Acompanhamento das Aprendizagens?",
+    "resposta": "Os dados da Plataforma podem ser usados para acompanhar o progresso dos estudantes, planejar intervenções pedagógicas e embasar a tomada de decisões nas redes de ensino."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Familiares e estudantes",
+    "pergunta": "Como o Pacto considera a inclusão de estudantes com deficiência?",
+    "resposta": "A política prevê estratégias que garantam acessibilidade e equidade, promovendo materiais adaptados, formação para educadores e metodologias inclusivas para atender estudantes com deficiência."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Familiares e estudantes",
+    "pergunta": "O Pacto prevê a recomposição das aprendizagens para a educação de jovens e adultos (EJA)?",
+    "resposta": "Sim, as diretrizes do Pacto contemplam todas as etapas e modalidades da educação básica, considerando suas especificidades e buscando reduzir as desigualdades educacionais."
+  },
+  {
+    "programa": "Pacto Nacional pela Recomposição das Aprendizagens",
+    "agrupamento": "Familiares e estudantes",
+    "pergunta": "Como a participação dos estudantes e das famílias será incentivada na recomposição das aprendizagens?",
+    "resposta": "Serão promovidas campanhas para sensibilização e engajamento, além de estratégias pedagógicas que fortaleçam a participação ativa dos estudantes e o envolvimento das famílias no acompanhamento ao processo de ensino-aprendizagem."
+  }
+]
